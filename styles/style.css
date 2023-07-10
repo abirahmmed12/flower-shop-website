@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.header{
+    height: 90vh;
+    background: rgba(229, 84, 115, 0.10);
+}
+.header-content{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: space-between;
+}
+.png10{
+    width: 450px;
+    height: 650px;
+
+padding-right: 240px;
+}
+
+  
+
+.header-img{
+    margin-bottom: 0px;
+}
+.header-paragraph{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.header-h1{
+    color: #272727;
+   
+    font-size: 70px;
+   
+   
+  
+}
+.header-text{
+    padding-left: 180px;
+}
+.primary-btn{
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+background: #E55473;
+border: none;
+color: white;
+}
