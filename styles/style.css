@@ -119,9 +119,10 @@ font-weight: 800;
     margin-top: 0px;
   }
 .thirdpart-container{
-    width: 67%;
+   width: 1000px;
     margin: auto;
-height: 200px;
+    padding-top: 25px;
+
 border-radius: 8px;
 background: rgba(39, 39, 39, 0.05);
 
