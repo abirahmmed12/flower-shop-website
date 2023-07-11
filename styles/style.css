@@ -3,7 +3,7 @@ body{
 font-family: 'Work Sans', sans-serif;
 }
 .header{
-    height: 100vh;
+    width: 100%;
     background: rgba(229, 84, 115, 0.10);
 }
 .header-content{
