@@ -3,29 +3,35 @@ body{
 font-family: 'Work Sans', sans-serif;
 }
 .header{
-    height: 90vh;
+    width: 100%;
+    height: 800px;
+   
     background: rgba(229, 84, 115, 0.10);
 }
 .header-content{
     display: flex;
     align-items: center;
-    gap: 100px;
-    justify-content: space-between;
+    justify-content: space-around;
+    
+  
+ 
+
 }
 
 
 .png10{
-    width: 450px;
-    height: 650px;
+    
+padding-top: 100px;
+padding-right: 60px;
+height: 700px;
 
-padding-right: 400px;
-padding-top:
 }
 
   
 
 .header-img{
-    margin-bottom: 0px;
+ 
+
 }
 .header-paragraph{
     width: 650px;
@@ -52,7 +58,7 @@ color: white;
 }
 
 .second-part{
-    height: 100vh;
+    width: 100%;
 }
 
 .folwer-1{
@@ -103,12 +109,15 @@ font-size: 40px;
 
 font-weight: 800;
 
+
 }
 .secondpart-paragraph{
     color: rgba(39, 39, 39, 0.60);
 }
 
-  
+  .third-part{
+    margin-top: 0px;
+  }
 .thirdpart-container{
     width: 67%;
     margin: auto;
@@ -120,7 +129,8 @@ background: rgba(39, 39, 39, 0.05);
     justify-content: center;
     align-items: center;
     gap: 40px;
-    padding-top: 25px;
+   
+    margin-top: 1px;
    
 }
 .thirdpart-text{
@@ -136,6 +146,9 @@ font-family: Lato;
 
    
 }
+.third-part1{
+    margin-top: 100px;
+}
 .delevary-img{
     margin-left: 80px;
    
@@ -147,7 +160,7 @@ font-family: Lato;
     margin-left: 20px;
 }
 .fourth-part{
-    height: 66vh;
+    width: 100%;
     border-radius: 8px;
 background: rgba(229, 84, 115, 0.05);
 padding-top: 20px;
@@ -250,11 +263,12 @@ line-height: normal;
     padding-left: 20px;
 }
 .footer{
-    height: 50vh;
+    width: 100%;
     
     background-color: black;
     color: white;
     margin-top: 100px;
+    padding-bottom: 100px;
 }
 .footer-conteiner{
     text-align: center;
