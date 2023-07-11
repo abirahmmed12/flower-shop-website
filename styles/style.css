@@ -187,6 +187,7 @@ line-height: normal;
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding-top: 30px;
    
 }
 .flex{
@@ -194,10 +195,20 @@ line-height: normal;
     justify-content: center;
     gap: 20px;
     margin-top: 10px;
+    align-items: center;
+  
 }
 .crt{
     width: 30;
     height: 50px;
+   
+}
+.crt-btn{
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color:white;
+    border: 1px solid black;
 }
 .fourth-part{
     width: 100%;
